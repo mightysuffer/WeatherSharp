@@ -1,0 +1,17 @@
+C:\Users\comp555\source\repos\coursa42\bin\Debug\coursa42.exe.config
+C:\Users\comp555\source\repos\coursa42\bin\Debug\coursa42.exe
+C:\Users\comp555\source\repos\coursa42\bin\Debug\coursa42.pdb
+C:\Users\comp555\source\repos\coursa42\obj\Debug\coursa42.csprojAssemblyReference.cache
+C:\Users\comp555\source\repos\coursa42\obj\Debug\coursa42.Form1.resources
+C:\Users\comp555\source\repos\coursa42\obj\Debug\coursa42.Properties.Resources.resources
+C:\Users\comp555\source\repos\coursa42\obj\Debug\coursa42.csproj.GenerateResource.cache
+C:\Users\comp555\source\repos\coursa42\obj\Debug\coursa42.csproj.CoreCompileInputs.cache
+C:\Users\comp555\source\repos\coursa42\obj\Debug\coursa42.exe
+C:\Users\comp555\source\repos\coursa42\obj\Debug\coursa42.pdb
+C:\Users\comp555\source\repos\coursa42\bin\Debug\Newtonsoft.Json.dll
+C:\Users\comp555\source\repos\coursa42\bin\Debug\Newtonsoft.Json.xml
+C:\Users\comp555\source\repos\coursa42\obj\Debug\coursa42.csproj.CopyComplete
+C:\Users\comp555\source\repos\coursa42\bin\Debug\coursa42.exe.manifest
+C:\Users\comp555\source\repos\coursa42\bin\Debug\coursa42.application
+C:\Users\comp555\source\repos\coursa42\obj\Debug\coursa42.exe.manifest
+C:\Users\comp555\source\repos\coursa42\obj\Debug\coursa42.application

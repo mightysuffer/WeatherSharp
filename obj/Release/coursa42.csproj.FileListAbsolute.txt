@@ -1,0 +1,13 @@
+C:\Users\comp555\source\repos\coursa42\bin\Release\coursa42.exe.config
+C:\Users\comp555\source\repos\coursa42\bin\Release\coursa42.exe
+C:\Users\comp555\source\repos\coursa42\bin\Release\coursa42.pdb
+C:\Users\comp555\source\repos\coursa42\bin\Release\Newtonsoft.Json.dll
+C:\Users\comp555\source\repos\coursa42\bin\Release\Newtonsoft.Json.xml
+C:\Users\comp555\source\repos\coursa42\obj\Release\coursa42.csprojAssemblyReference.cache
+C:\Users\comp555\source\repos\coursa42\obj\Release\coursa42.Form1.resources
+C:\Users\comp555\source\repos\coursa42\obj\Release\coursa42.Properties.Resources.resources
+C:\Users\comp555\source\repos\coursa42\obj\Release\coursa42.csproj.GenerateResource.cache
+C:\Users\comp555\source\repos\coursa42\obj\Release\coursa42.csproj.CoreCompileInputs.cache
+C:\Users\comp555\source\repos\coursa42\obj\Release\coursa42.csproj.CopyComplete
+C:\Users\comp555\source\repos\coursa42\obj\Release\coursa42.exe
+C:\Users\comp555\source\repos\coursa42\obj\Release\coursa42.pdb
